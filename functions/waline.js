@@ -1,4 +1,4 @@
-const { Waline } = require('@waline/vercel');
+module.exports = require('@waline/vercel');
 
 /** 
  * 在这里配置你的 Waline 选项
